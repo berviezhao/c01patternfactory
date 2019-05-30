@@ -1,4 +1,4 @@
-package com.bervie.learn.gupao.pattern.factory.simplefactory;
+package com.bervie.learn.pattern.factory.simplefactory;
 
 /**
  * Created with IntelliJ IDEA

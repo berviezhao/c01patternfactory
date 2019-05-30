@@ -1,4 +1,4 @@
-package com.bervie.learn.gupao;
+package com.bervie.learn;
 
 /**
  * Hello world!

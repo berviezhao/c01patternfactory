@@ -1,4 +1,4 @@
-package com.bervie.learn.gupao.pattern.factory.simplefactory;
+package com.bervie.learn.pattern.factory.simplefactory;
 
 import java.util.Calendar;
 
@@ -15,7 +15,7 @@ public class SimpleFactoryTest {
 */
         CourseFactory factory = new CourseFactory();
 
-        //ICourse c1 = factory.create("com.bervie.learn.gupao.pattern.factory.simplefactory.JavaCourse");
+        //ICourse c1 = factory.create("JavaCourse");
 
         ICourse c1 = factory.create(JavaCourse.class);
         c1.record();
