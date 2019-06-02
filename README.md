@@ -25,6 +25,7 @@ factorymethod包下，从包下ItemFactory可看出:
 
 ### 抽象工厂模式：
 抽象工厂模式（Abastract Factory Pattern）是指提供一个创建一系列相关或相互依赖对象的接口，无须指定他们具体的类。
+
 abstractfactory包下，从包下ItemFactory可看出：
 1. 相较工厂方法模式，将产品的创建的所有集合统一到工厂中与业务层隔离，业务端无需关系产品的具体创建流程以及逻辑。
 
